@@ -1,34 +1,3 @@
-{ 
-  "usaa-20190909": [
-    {
-      "name": "Jake"
-    },
-    {
-      "name": "John"
-    },
-    {
-      "name": "Jeff"
-    },
-    {
-      "name": "Randy"
-    },
-    {
-      "name": "Jack"
-    },
-    {
-      "name": "Daniel"
-    },
-    {
-      "name": "Demers"
-    },
-    {
-      "name": "Brandon"
-    },
-    {
-      "name": "Josh"
-    },
-    {
-      "name": "Cameron"
-    }
-  ]
+{
+  "usaa-20191028": [{"name":"Aaron Ta"},{"name":"Alejandro Suazo"},{"name":"Alla Dove"},{"name":"Andrew Flores"},{"name":"Brian Parsons"},{"name":"Christopher Shannon"},{"name":"Daren Baca"},{"name":"Derek Bush"},{"name":"Derek Harris"},{"name":"Derek Mitchell"},{"name":"Gloria Coe"},{"name":"Jason Blig"},{"name":"Jeff Smith"},{"name":"Jeremy Zapata"},{"name":"Jillian Taylor"},{"name":"John Wimberly"},{"name":"Joshua Jones"},{"name":"Kyler Boyles"},{"name":"Manu Antony"},{"name":"Mauro Sanchez"},{"name":"Paz Juarez"},{"name":"Rebecca Osborne"},{"name":"Ric Najera"},{"name":"Richard Uranga"},{"name":"Robert Gurchak"},{"name":"Roger Flores"},{"name":"Scott Weber"},{"name":"Seth Stell"},{"name":"Sherman Thompson"},{"name":"Stephan Salas"},{"name":"Steven Hawkins"},{"name":"Tim Craft"},{"name":"Tung Nguyen"},{"name":"Vignesh Rajan"},{"name":"Vincent Sanchez"},{"name":"Yordanos Kinney"}]
 }
