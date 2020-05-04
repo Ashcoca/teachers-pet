@@ -3,6 +3,7 @@
 const Pair = require('./pair')
 
 function makePairs (students, allPreviousPairs) {
+  console.log(allPreviousPairs)
   if (!(students && students.length)) {
     throw new Error('No students')
   }
